@@ -2,7 +2,7 @@
 title: tmux工具
 date: 2018-11-03
 tags:
-categories: 常用工具
+categories: 计算机开发工具
 updated: 2018-11-04
 ---
 # 一：说明

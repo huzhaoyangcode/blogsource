@@ -2,7 +2,8 @@
 title: unmount 命令用法
 date: 2018-11-03
 tags:
-categories: 常用linux命令
+categories: 
+- linux常用shell命令
 ---
 **umount命令** 用来卸载文件系统。
 <!-- more --> 
