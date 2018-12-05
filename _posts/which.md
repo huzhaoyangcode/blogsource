@@ -1,12 +1,12 @@
 ---
-title: cd 命令用法
+title: which 命令用法
 date: 2018-12-05
 tags:
 categories: 
 - linux常用shell命令
-- 文件和目录管理
+- 查找命令
 ---
-**cd命令** 待添加。
+**which命令** 待添加。
 <!-- more --> 
 #### **语法**
 

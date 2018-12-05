@@ -1,12 +1,12 @@
 ---
-title: cd 命令用法
+title: newgrp 命令用法
 date: 2018-12-05
 tags:
 categories: 
 - linux常用shell命令
-- 文件和目录管理
+- 用户管理
 ---
-**cd命令** 待添加。
+**newgrp命令** 待添加。
 <!-- more --> 
 #### **语法**
 

@@ -1,12 +1,12 @@
 ---
-title: cd 命令用法
+title: zip 命令用法
 date: 2018-12-05
 tags:
 categories: 
 - linux常用shell命令
-- 文件和目录管理
+- 压缩和解压
 ---
-**cd命令** 待添加。
+**zip命令** 待添加。
 <!-- more --> 
 #### **语法**
 
