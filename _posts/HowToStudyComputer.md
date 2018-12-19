@@ -1,5 +1,5 @@
 ---
-title: 计算机学习规划
+title: 怎样学好计算机技术？
 date: 2018-12-10
 tags:
 categories: 
