@@ -93,7 +93,7 @@ categories:
 ---
 | 命令名                           | 功能说明 |
 | :--:                             | :--      |
-| {% post_link tar tar  %}         |          |
+| {% post_link tar tar  %}         | 用来压缩文件，解压缩文件，打包文件|
 | {% post_link zip zip  %}         |          |
 | {% post_link unzip unzip  %}     |          |
 | {% post_link gzip gzip  %}       |          |
@@ -134,7 +134,7 @@ categories:
 | 命令名                                   | 功能说明 |
 | :--:                                     | :--      |
 | {% post_link w w  %}                     |          |
-| {% post_link who who  %}                 |          |
+| {% post_link who who  %}                 |输出当前登录本机的用户信息|
 | {% post_link last last  %}               |          |
 | {% post_link lastlog lastlog  %}         |          |
 | {% post_link finger finger  %}           |          |
@@ -192,7 +192,6 @@ categories:
 | 命令名                             | 功能说明 |
 | :--:                               | :--      |
 | {% post_link init init  %}         |          |
-| {% post_link who who  %}           |          |
 | {% post_link reboot reboot  %}     |          |
 | {% post_link shutdown shutdown  %} |          |
 | {% post_link halt halt  %}         |          |
@@ -220,7 +219,7 @@ categories:
 | {% post_link df df  %}                 |          |
 | {% post_link fsck fsck  %}             |          |
 | {% post_link mount mount  %}           |          |
-| {% post_link unmount unmount  %}       |          |
+| {% post_link umount umount  %}         | 用来卸载文件系统|
 | {% post_link dumpe2fs dumpe2fs  %}     |          |
 | {% post_link fdisk fdisk  %}           |          |
 | {% post_link mkfs mkfs  %}             |          |
