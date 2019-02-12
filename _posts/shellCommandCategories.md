@@ -13,8 +13,8 @@ categories:
 ---
 | 命令名                          | 功能说明 |
 | :--:                            | :--      |
-| {% post_link cd cd  %}          |          |
-| {% post_link pwd pwd %}         |          |
+| {% post_link cd cd  %}          | change directory(改变工作目录)         |
+| {% post_link pwd pwd %}         | print working directory(输出工作目录)         |
 | {% post_link mkdir mkdir %}     |          |
 | {% post_link rmdir rmdir %}     |          |
 | {% post_link tree tree %}       |          |
