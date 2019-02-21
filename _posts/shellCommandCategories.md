@@ -149,6 +149,7 @@ categories:
 | {% post_link lsb_release lsb_release  %} |          |
 | {% post_link lsof lsof  %}               |          |
 | {% post_link file file  %}               |          |
+| {% post_link type type  %}               |Display information about command type(输出命令类型信息)          |
 | {% post_link chkconfig chkconfig  %}     |          |
 | {% post_link setup setup  %}             |          |
 | {% post_link sync sync  %}               |          |
