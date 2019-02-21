@@ -17,7 +17,7 @@ categories:
 | {% post_link pwd pwd %}         | print working directory(输出工作目录)         |
 | {% post_link mkdir mkdir %}     | make directories(创建空文件夹)         |
 | {% post_link rmdir rmdir %}     | remove empty directories(移除空目录)         |
-| {% post_link tree tree %}       |          |
+| {% post_link tree tree %}       | list contents of directories in a tree-like format(以倒树的形式列出文件夹中的内容)|
 | {% post_link ls ls %}           | list directory contents(列出目录内容)         |
 | {% post_link touch touch %}     |          |
 | {% post_link cp cp %}           |          |
@@ -93,7 +93,7 @@ categories:
 ---
 | 命令名                           | 功能说明 |
 | :--:                             | :--      |
-| {% post_link tar tar  %}         | 用来压缩文件，解压缩文件，打包文件|
+| {% post_link tar tar  %}         | The GNU version of the tar archiving utility(GNU版本的归档管理器)|
 | {% post_link zip zip  %}         |          |
 | {% post_link unzip unzip  %}     |          |
 | {% post_link gzip gzip  %}       |          |
@@ -134,7 +134,7 @@ categories:
 | 命令名                                   | 功能说明 |
 | :--:                                     | :--      |
 | {% post_link w w  %}                     |          |
-| {% post_link who who  %}                 |输出当前登录本机的用户信息|
+| {% post_link who who  %}                 |show who is logged on(输出当前登录本机的用户信息)|
 | {% post_link last last  %}               |          |
 | {% post_link lastlog lastlog  %}         |          |
 | {% post_link finger finger  %}           |          |
@@ -220,7 +220,7 @@ categories:
 | {% post_link df df  %}                 |          |
 | {% post_link fsck fsck  %}             |          |
 | {% post_link mount mount  %}           |          |
-| {% post_link umount umount  %}         | 用来卸载文件系统|
+| {% post_link umount umount  %}         | unmount file systems(卸载文件系统)|
 | {% post_link dumpe2fs dumpe2fs  %}     |          |
 | {% post_link fdisk fdisk  %}           |          |
 | {% post_link mkfs mkfs  %}             |          |

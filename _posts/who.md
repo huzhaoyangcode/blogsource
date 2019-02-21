@@ -6,7 +6,7 @@ categories:
 - linux常用shell命令
 - 系统管理
 ---
-**who命令** 输出当前登录本机的用户信息。
+**who命令** show who is logged on. 输出当前登录本机的用户信息。
 <!-- more --> 
 
 语法

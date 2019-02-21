@@ -1,6 +1,6 @@
 ---
 title: ls 命令用法
-date: 2018-12-05
+date: 2019-2-19
 tags:
 categories: 
 - linux常用shell命令
