@@ -16,7 +16,7 @@ categories:
 | {% post_link cd cd  %}          | change directory(改变工作目录)         |
 | {% post_link pwd pwd %}         | print working directory(输出工作目录)         |
 | {% post_link mkdir mkdir %}     | make directories(创建空文件夹)         |
-| {% post_link rmdir rmdir %}     |          |
+| {% post_link rmdir rmdir %}     | remove empty directories(移除空目录)         |
 | {% post_link tree tree %}       |          |
 | {% post_link ls ls %}           | list directory contents(列出目录内容)         |
 | {% post_link touch touch %}     |          |
