@@ -19,12 +19,12 @@ categories:
 | {% post_link rmdir rmdir %}     | remove empty directories(移除空目录)         |
 | {% post_link tree tree %}       | list contents of directories in a tree-like format(以倒树的形式列出文件夹中的内容)|
 | {% post_link ls ls %}           | list directory contents(列出目录内容)         |
-| {% post_link touch touch %}     |          |
-| {% post_link cp cp %}           |          |
-| {% post_link mv mv %}           |          |
-| {% post_link rm rm %}           |          |
-| {% post_link cat cat %}         |          |
-| {% post_link more more %}       |          |
+| {% post_link touch touch %}     | change file timestamps (修改文件时间戳)         |
+| {% post_link cp cp %}           | copy files and directories(拷贝文件和目录)        |
+| {% post_link mv mv %}           | move (rename) files (移动或重命名文件)         |
+| {% post_link rm rm %}           | remove files or directories (删除文件或目录)         |
+| {% post_link cat cat %}         | concatenate files and print on the standard output(连结并输出文件到标准输出)         |
+| {% post_link more more %}       | file perusal filter for crt viewing. (文本文件阅读器)         |
 | {% post_link less less %}       |          |
 | {% post_link head head %}       |          |
 | {% post_link ln ln %}           |          |
