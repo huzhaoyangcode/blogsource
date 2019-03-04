@@ -25,9 +25,9 @@ categories:
 | {% post_link rm rm %}           | remove files or directories (删除文件或目录)         |
 | {% post_link cat cat %}         | concatenate files and print on the standard output(连结并输出文件到标准输出)         |
 | {% post_link more more %}       | file perusal filter for crt viewing. (文本文件阅读器)         |
-| {% post_link less less %}       |          |
-| {% post_link head head %}       |          |
-| {% post_link ln ln %}           |          |
+| {% post_link less less %}       | opposite of more.(文本文件阅读器,类似于more)         |
+| {% post_link head head %}       | output the first part of files. （输出文件的前部）        |
+| {% post_link ln ln %}           | make links between files. （在文件之间创建链接）         |
 | {% post_link diff diff %}       |          |
 | {% post_link vimdiff vimdiff %} |          |
 | {% post_link rename rename %}   |          |
