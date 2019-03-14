@@ -1,6 +1,6 @@
 ---
 title: linux常用shell命令分类
-date: 2018-12-05
+date: 2019-03-14
 tags:
 categories: 
 - linux常用shell命令
@@ -39,7 +39,7 @@ categories:
 | {% post_link uniq uniq %}       |          |
 | {% post_link seq seq %}         |          |
 | {% post_link read read %}       |          |
-| {% post_link echo echo %}       |          |
+| {% post_link echo echo %}       | display a line of text. (输出一行文本文字)         |
 | {% post_link cut cut %}         |          |
 | {% post_link grep grep %}       |          |
 | {% post_link awk awk %}         |          |
@@ -148,7 +148,7 @@ categories:
 | {% post_link jobs jobs  %}               |          |
 | {% post_link lsb_release lsb_release  %} |          |
 | {% post_link lsof lsof  %}               |          |
-| {% post_link file file  %}               |          |
+| {% post_link file file  %}               |determine file type （判定文件的类型）         |
 | {% post_link type type  %}               |Display information about command type(输出命令类型信息)          |
 | {% post_link chkconfig chkconfig  %}     |          |
 | {% post_link setup setup  %}             |          |
@@ -157,7 +157,8 @@ categories:
 | {% post_link du du  %}                   |          |
 | {% post_link at at  %}                   |          |
 | {% post_link crontab crontab  %}         |          |
-| {% post_link date date  %}               |          |
+| {% post_link date date  %}               | print or set the system date and time.(输出或设置系统日期和时间)      |
+| {% post_link hwclock hwclock  %}         | read or set the hardware clock. (读或设置硬件时钟)        |
 | {% post_link alias alias  %}             |          |
 | {% post_link unalias unalias  %}         |          |
 | {% post_link chage chage  %}             |          |
