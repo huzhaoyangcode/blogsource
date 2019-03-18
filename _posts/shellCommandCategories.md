@@ -1,6 +1,6 @@
 ---
 title: linux常用shell命令分类
-date: 2019-03-14
+date: 2019-03-18
 tags:
 categories: 
 - linux常用shell命令
@@ -31,7 +31,7 @@ categories:
 | {% post_link diff diff %}       |          |
 | {% post_link vimdiff vimdiff %} |          |
 | {% post_link rename rename %}   |          |
-| {% post_link stat stat %}       |          |
+| {% post_link stat stat %}       |	display file or file system status (显示文件或文件系统的状态)        |
 | {% post_link md5sum md5sum %}   |          |
 | {% post_link paste paste %}     |          |
 | {% post_link nl nl %}           |          |
@@ -74,7 +74,7 @@ categories:
 | 命令名                           | 功能说明 |
 | :--:                             | :--      |
 | {% post_link which which  %}     |          |
-| {% post_link whereis whereis  %} |          |
+| {% post_link whereis whereis  %} | locate the binary, source, and manual page files for a command (定位命令，文件的位置.)       |
 | {% post_link locate locate  %}   |          |
 | {% post_link find find  %}       |          |
 | {% post_link grep grep  %}       |          |
@@ -87,6 +87,7 @@ categories:
 | :--:                       | :--      |
 | {% post_link man man  %}   |          |
 | {% post_link help help  %} |          |
+| {% post_link whatis whatis  %} | display one-line manual page descriptions (输出man手册中的一行)  |
 | {% post_link info info  %} |          |
 
 6、压缩和解压（7）
@@ -134,7 +135,7 @@ categories:
 | 命令名                                   | 功能说明 |
 | :--:                                     | :--      |
 | {% post_link w w  %}                     |          |
-| {% post_link who who  %}                 |show who is logged on(输出当前登录本机的用户信息)|
+| {% post_link who who  %}                 | show who is logged on(输出当前登录本机的用户信息)|
 | {% post_link last last  %}               |          |
 | {% post_link lastlog lastlog  %}         |          |
 | {% post_link finger finger  %}           |          |
@@ -148,13 +149,13 @@ categories:
 | {% post_link jobs jobs  %}               |          |
 | {% post_link lsb_release lsb_release  %} |          |
 | {% post_link lsof lsof  %}               |          |
-| {% post_link file file  %}               |determine file type （判定文件的类型）         |
-| {% post_link type type  %}               |Display information about command type(输出命令类型信息)          |
+| {% post_link file file  %}               | determine file type （判定文件的类型）         |
+| {% post_link type type  %}               | Display information about command type(输出命令类型信息)          |
 | {% post_link chkconfig chkconfig  %}     |          |
 | {% post_link setup setup  %}             |          |
 | {% post_link sync sync  %}               |          |
 | {% post_link su su  %}                   |          |
-| {% post_link du du  %}                   |          |
+| {% post_link du du  %}                   | estimate file space usage (评估文件空间用量)          |
 | {% post_link at at  %}                   |          |
 | {% post_link crontab crontab  %}         |          |
 | {% post_link date date  %}               | print or set the system date and time.(输出或设置系统日期和时间)      |
