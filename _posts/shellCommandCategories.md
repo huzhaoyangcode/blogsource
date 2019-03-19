@@ -27,6 +27,7 @@ categories:
 | {% post_link more more %}       | file perusal filter for crt viewing. (文本文件阅读器)         |
 | {% post_link less less %}       | opposite of more.(文本文件阅读器,类似于more)         |
 | {% post_link head head %}       | output the first part of files. （输出文件的前部）        |
+| {% post_link tail tail %}       | output the last part of files. (输出文件的后部分) |
 | {% post_link ln ln %}           | make links between files. （在文件之间创建链接）         |
 | {% post_link diff diff %}       |          |
 | {% post_link vimdiff vimdiff %} |          |
@@ -35,12 +36,12 @@ categories:
 | {% post_link md5sum md5sum %}   |          |
 | {% post_link paste paste %}     |          |
 | {% post_link nl nl %}           |          |
-| {% post_link sort sort %}       |          |
+| {% post_link sort sort %}       | sort lines of text files （排序文本文件行）     |
 | {% post_link uniq uniq %}       |          |
 | {% post_link seq seq %}         |          |
 | {% post_link read read %}       |          |
 | {% post_link echo echo %}       | display a line of text. (输出一行文本文字)         |
-| {% post_link cut cut %}         |          |
+| {% post_link cut cut %}         | remove sections from each line of files (移除文件中每一行的某个部分)         |
 | {% post_link grep grep %}       |          |
 | {% post_link awk awk %}         |          |
 | {% post_link sed sed %}         |          |
