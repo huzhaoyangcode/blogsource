@@ -35,7 +35,9 @@ categories:
 | {% post_link stat stat %}       |	display file or file system status (显示文件或文件系统的状态)        |
 | {% post_link md5sum md5sum %}   |          |
 | {% post_link paste paste %}     |          |
-| {% post_link nl nl %}           |          |
+| {% post_link tr tr %}           |          |
+| {% post_link nl nl %}           | number lines of files (统计文件行数)       |
+| {% post_link wc wc %}           | print newline, word, and byte counts for each file (统计文件的行数，字数，字节数)         |
 | {% post_link sort sort %}       | sort lines of text files （排序文本文件行）     |
 | {% post_link uniq uniq %}       |          |
 | {% post_link seq seq %}         |          |
