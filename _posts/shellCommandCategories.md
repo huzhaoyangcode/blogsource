@@ -29,7 +29,7 @@ categories:
 | {% post_link head head %}       | output the first part of files. （输出文件的前部）        |
 | {% post_link tail tail %}       | output the last part of files. (输出文件的后部分) |
 | {% post_link ln ln %}           | make links between files. （在文件之间创建链接）         |
-| {% post_link diff diff %}       |          |
+| {% post_link diff diff %}       | compare files line by line. (按行对比文件)         |
 | {% post_link vimdiff vimdiff %} |          |
 | {% post_link rename rename %}   |          |
 | {% post_link stat stat %}       |	display file or file system status (显示文件或文件系统的状态)        |
