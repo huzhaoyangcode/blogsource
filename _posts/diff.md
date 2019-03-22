@@ -178,6 +178,27 @@ categories:
 	说明：所谓打补丁，就是把补丁文件应用到没有更新的文件上，
 	结果diffTestfile1.txt 变成了diffTestfile2.txt文件。
 
+##### 七：对比二进制文件
+	$ diff test1 test2
+	Binary files test1 and test2 differ
+
+	说明：对比二进制文件时，相同不会有任何输出，不同时才会有输出。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
