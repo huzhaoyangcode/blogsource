@@ -1,6 +1,6 @@
 ---
 title: rmdir 命令用法
-date: 2019-12-21
+date: 2018-12-21
 tags:
 categories: 
 - linux常用shell命令
